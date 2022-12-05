@@ -1,0 +1,35 @@
+body{
+    margin: 0 auto;
+    max-width: 960px;
+    background-color: #3c412c;
+    color: #a8c64e;
+    font-family: 'Press Start 2P', cursive,'Courier New', Courier, monospace;
+    -webkit-text-stroke: 1px;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    font-size: 72px;
+}
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #a8c64e;
+}
+
+header p{
+    text-align: left;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+header img{
+    margin: 0 auto;
+}
