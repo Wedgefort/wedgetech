@@ -131,3 +131,8 @@ footer p.tm{
     text-align: center;
     font-size: 8pt;
 }
+
+/* PARAGRAPH PADDING */
+p{
+    padding: 20px 0;
+}
